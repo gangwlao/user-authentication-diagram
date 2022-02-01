@@ -1,1 +1,1 @@
-![user authorization diagram](photo.png)
+![user authentication diagram](photo.png)
